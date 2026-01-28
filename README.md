@@ -1,10 +1,10 @@
 # LeetCode solutions
 
 ## 20. Valid Parentheses
-https://leetcode.com/problems/valid-parentheses
+[Problem](https://leetcode.com/problems/valid-parentheses) [Code](20-valid-parentheses/main.go)
 
 ## 206. Reverse Linked List
-https://leetcode.com/problems/reverse-linked-list
+[Problem](https://leetcode.com/problems/reverse-linked-list) [Code](206-reverse-linked-list/main.go)
 
 ## 1768. Merge Strings Alternately
-https://leetcode.com/problems/merge-strings-alternately
+[Problem](https://leetcode.com/problems/merge-strings-alternately) [Code](1768-merge-strings-alternately/main.go)
